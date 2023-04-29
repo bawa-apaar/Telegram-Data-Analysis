@@ -15,3 +15,13 @@ We are analyzing the drift among the posts and corresponding user interaction am
 Collected data from posts are in the russian language. Hence, all analysis are correspond to the russian language.
 
 I've added subset_telegram_data.csv as subset of data only as whole dataset is more than 1 gb and isn't viable to upload that heavy file on github.
+
+### scrape_telegram_channel.py - python code for data collection from telegram channels.
+
+### EDA/volume_views_forwards_reactions_analysis.ipynb - Statistical Analysis on volume, views, forwards and reactions
+
+### EDA/engagement score.ipynb - Statistical Analysis calculating the engagement score
+
+### EDA/popularity score.ipynb - Statistical Analysis calculating the popularity score
+
+### EDA/n-gram analysis.ipynb - n-gram analysis (unigrams, bigrams and trigrams)
